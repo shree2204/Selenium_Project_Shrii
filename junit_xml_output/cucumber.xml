@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="20.904">
+    <testcase classname="OrangeHRM Website Functionality" name="Log-in with valid username and password" time="20.637">
+        <system-out>
+            <![CDATA[Given Open the browser......................................................passed
+When Navigate to the URL "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login".passed
+And Enter registered username "Admin" and password "admin123"...............passed
+And Click on login button...................................................passed
+Then User must successfully login to the web page...........................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
